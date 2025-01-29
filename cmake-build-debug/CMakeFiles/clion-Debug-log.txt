@@ -1,4 +1,4 @@
 /home/jyotshah/Downloads/clion-2024.3.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/jyotshah/Downloads/clion-2024.3.2/bin/ninja/linux/x64/ninja -G Ninja -S /home/jyotshah/Desktop/encodeInput -B /home/jyotshah/Desktop/encodeInput/cmake-build-debug
--- Configuring done (0.1s)
+-- Configuring done (0.0s)
 -- Generating done (0.1s)
 -- Build files have been written to: /home/jyotshah/Desktop/encodeInput/cmake-build-debug

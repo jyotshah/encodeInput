@@ -1,7 +1,7 @@
 # ninja log v6
-1	60	1738166901632150427	build.ninja	48d63135dcf9a73c
+1	60	1738166971281071176	build.ninja	48d63135dcf9a73c
 2	91	1738166901654150348	CMakeFiles/encodeInput.dir/src/main.c.o	3d4607a28c3dd17
-92	147	1738166901745150022	CMakeFiles/encodeInput.dir/src/file_io.c.o	21c2e70eb8cb8b97
-147	212	1738166901800149824	CMakeFiles/encodeInput.dir/src/assembly.c.o	235f88f2db9b43f4
 212	263	1738166901864149595	CMakeFiles/encodeInput.dir/src/srecord.c.o	e2603732d14a97af
+92	147	1738166901745150022	CMakeFiles/encodeInput.dir/src/file_io.c.o	21c2e70eb8cb8b97
 263	386	1738166901915149412	encodeInput	a1e904d962fa573b
+147	212	1738166901800149824	CMakeFiles/encodeInput.dir/src/assembly.c.o	235f88f2db9b43f4
